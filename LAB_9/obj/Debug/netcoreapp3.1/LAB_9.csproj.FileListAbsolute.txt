@@ -1,0 +1,46 @@
+C:\Users\Саша\source\repos\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.exe
+C:\Users\Саша\source\repos\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.deps.json
+C:\Users\Саша\source\repos\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.runtimeconfig.json
+C:\Users\Саша\source\repos\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.runtimeconfig.dev.json
+C:\Users\Саша\source\repos\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.dll
+C:\Users\Саша\source\repos\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.pdb
+C:\Users\Саша\source\repos\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.csprojAssemblyReference.cache
+C:\Users\Саша\source\repos\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.AssemblyInfoInputs.cache
+C:\Users\Саша\source\repos\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.AssemblyInfo.cs
+C:\Users\Саша\source\repos\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.dll
+C:\Users\Саша\source\repos\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.pdb
+E:\LAB_9\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.exe
+E:\LAB_9\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.deps.json
+E:\LAB_9\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.runtimeconfig.json
+E:\LAB_9\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.runtimeconfig.dev.json
+E:\LAB_9\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.dll
+E:\LAB_9\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.pdb
+E:\LAB_9\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.csprojAssemblyReference.cache
+E:\LAB_9\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.AssemblyInfoInputs.cache
+E:\LAB_9\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.AssemblyInfo.cs
+E:\LAB_9\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.dll
+E:\LAB_9\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.pdb
+E:\LAB_9\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.genruntimeconfig.cache
+C:\Users\Саша\Downloads\LAB_9 (1)\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.exe
+C:\Users\Саша\Downloads\LAB_9 (1)\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.deps.json
+C:\Users\Саша\Downloads\LAB_9 (1)\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.runtimeconfig.json
+C:\Users\Саша\Downloads\LAB_9 (1)\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.runtimeconfig.dev.json
+C:\Users\Саша\Downloads\LAB_9 (1)\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.dll
+C:\Users\Саша\Downloads\LAB_9 (1)\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.pdb
+C:\Users\Саша\Downloads\LAB_9 (1)\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.csprojAssemblyReference.cache
+C:\Users\Саша\Downloads\LAB_9 (1)\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.AssemblyInfoInputs.cache
+C:\Users\Саша\Downloads\LAB_9 (1)\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.AssemblyInfo.cs
+C:\Users\Саша\Downloads\LAB_9 (1)\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.dll
+C:\Users\Саша\Downloads\LAB_9 (1)\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.pdb
+E:\Головко Би19-1 лаба9\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.exe
+E:\Головко Би19-1 лаба9\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.deps.json
+E:\Головко Би19-1 лаба9\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.runtimeconfig.json
+E:\Головко Би19-1 лаба9\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.runtimeconfig.dev.json
+E:\Головко Би19-1 лаба9\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.dll
+E:\Головко Би19-1 лаба9\LAB_9\bin\Debug\netcoreapp3.1\LAB_9.pdb
+E:\Головко Би19-1 лаба9\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.csprojAssemblyReference.cache
+E:\Головко Би19-1 лаба9\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.AssemblyInfoInputs.cache
+E:\Головко Би19-1 лаба9\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.AssemblyInfo.cs
+E:\Головко Би19-1 лаба9\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.dll
+E:\Головко Би19-1 лаба9\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.pdb
+E:\Головко Би19-1 лаба9\LAB_9\obj\Debug\netcoreapp3.1\LAB_9.genruntimeconfig.cache
