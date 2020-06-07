@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LAB_10/1.0.0": {
+        "dependencies": {
+          "GradeJournalLibrary": "1.0.0"
+        },
+        "runtime": {
+          "LAB_10.dll": {}
+        }
+      },
+      "GradeJournalLibrary/1.0.0": {
+        "runtime": {
+          "GradeJournalLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAB_10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GradeJournalLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
